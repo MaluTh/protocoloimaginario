@@ -1,2 +1,2 @@
-# protocoloimaginario
-Tranferência de arquivos via Socket, desenvolvido em JAVA.
+# Protocolo Imaginário
+Transferência de arquivos via Socket, desenvolvido em JAVA.
